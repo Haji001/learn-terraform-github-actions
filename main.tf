@@ -15,7 +15,7 @@ terraform {
     organization = "terraform-github-omoto"
 
     workspaces {
-      name = "github-action-terraform"
+      name = "omoto2"
     }
   }
 }
